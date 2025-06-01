@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/task_manager.dir/link.d CMakeFiles/task_manager.dir/src/main.cpp.o CMakeFiles/task_manager.dir/src/db_conn.cpp.o -o task_manager  -lmysqlcppconn libdbconn.a -lmysqlcppconn
