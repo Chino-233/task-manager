@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdbconn.a CMakeFiles/dbconn.dir/src/db_conn.cpp.o
-/usr/bin/ranlib libdbconn.a

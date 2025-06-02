@@ -1,5 +1,0 @@
-/home/chino/projects/task-manager/backend/build/CMakeFiles/task_manager.dir
-/home/chino/projects/task-manager/backend/build/CMakeFiles/db_test.dir
-/home/chino/projects/task-manager/backend/build/CMakeFiles/dbconn.dir
-/home/chino/projects/task-manager/backend/build/CMakeFiles/edit_cache.dir
-/home/chino/projects/task-manager/backend/build/CMakeFiles/rebuild_cache.dir
